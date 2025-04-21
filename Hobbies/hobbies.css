@@ -120,18 +120,18 @@ h1 {
 .card-content {
     padding: 2px 16px;
 }
-
-footer {
+.footer {
+	align: center;
     background-color: #C8EBC5;
     bottom: 0;
-    width: 100%;
+    width: 85%;
 }
 
 footer p {
     color: white;
     font-weight: 400;
-    float:right; 
-    padding-right :10px; 
+    float: right; 
+   ; 
     font-style :italic; 
 }
 
