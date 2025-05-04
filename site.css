@@ -34,4 +34,10 @@ text-align: center}
 h4{ text-align: center;
 
 .links {
-text align: center;}
+text-align: center;
+}
+
+address {
+  text-align: center;
+}
+  
