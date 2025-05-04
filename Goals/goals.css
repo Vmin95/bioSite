@@ -1,6 +1,6 @@
 html,
 container {
-margin-top: 50px;
+margin-top: 10px;
 margin-left: 25px;
 margin-right: 25px;
 font-family: "Sofia", Garamond, Sans-Serif;}
@@ -20,7 +20,7 @@ text-color: #FFFFFF;
 background-color: #BEC6EE;
 color: #353839;
   border: 1px solid #D6A800;
-  padding: 300px;
+  padding: 1px;
 
 }
 
