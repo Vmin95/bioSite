@@ -19,9 +19,10 @@ h1 {
 text-color: #FFFFFF;
 background-color: #BEC6EE;
 color: #353839;
-  border: 3px solid #D6A800;
-  padding: 3px;
-
+  border: 1px solid #D6A800;
+  padding: 2px;
+margin-right: 20%;
+margin-left: 20%;
 }
 
 img {
