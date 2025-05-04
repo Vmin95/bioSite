@@ -1,7 +1,5 @@
 html, 
 container{
-background-color: #C8EBC5;
-
   border: 1px solid #;
   padding: 10px;
 font-family: "Sofia", Sans-Serif;
@@ -30,6 +28,9 @@ h3 {
 font-weight: 500;
 text-align: center}
 
+.project_intro {
+  padding: 10%;
+}
 h4{ text-align: center;
 
 .links {
