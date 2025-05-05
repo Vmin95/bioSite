@@ -1,6 +1,11 @@
 /* Gonzalez_Mod6_2.css */
 html,
 container {
+	background-image: url("https://www.photoprintingpros.com/cdn/shop/products/4179.jpg?v=1558641967");
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 10px;
 margin-top: 50px;
 margin-left:100px;
 margin-right:100px;
@@ -17,11 +22,10 @@ footer {
 
 
 h1 {
-background-color: #BEC6EE;
-color: #353839;
-  border: 1px solid #D6A800;
+color: #FFFFFF;
   padding: 10px;
-
+  text-align: center;
+text-shadow: 3px 3px 3px #ababab;
 }
 
 img {
