@@ -16,10 +16,10 @@ body {
   display: flex;
   flex-direction: column;
 }
+
 footer {
   margin-top: auto;
 }
-
 
 h1 {
 color: #FFFFFF;
@@ -103,6 +103,7 @@ h1 {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+
 }
 
 .navbar a:hover {
@@ -160,3 +161,13 @@ footer a {
 footer a:hover {
    text-decoration :underline; 
 }
+a:visited {
+  background-color: cyan;
+}
+
+a:hover {
+  background-color: lightgreen;
+}
+
+a:active {
+  background-color: hotpink;
