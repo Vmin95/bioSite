@@ -141,10 +141,10 @@ h1 {
     padding: 2px 16px;
 }
 .footer {
-	align: center;
+    float: center;
     background-color: #C8EBC5;
     bottom: 0;
-    width: 85%;
+    width: 90%;
 }
 
 footer p {
@@ -161,8 +161,7 @@ footer a {
 }
 
 footer a:hover {
-   text-decoration :underline; 
-}
+   t
 a:visited {
   background-color: cyan;
 }
