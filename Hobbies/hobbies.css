@@ -31,6 +31,7 @@ text-shadow: 3px 3px 3px #ababab;
 img {
   width: 300px;
   height: auto; /* Maintain aspect ratio */
+  margin: auto;
 }
 
 .column {
