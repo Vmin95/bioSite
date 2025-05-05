@@ -106,7 +106,7 @@ h1 {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 75%;
+    width: 85%;
     background: #FFFFFF;
 }
 
@@ -128,7 +128,7 @@ h1 {
 .footer {
 	align: center;
     bottom: 0;
-    width: 85%;
+    width: 90%;
 }
 
 footer p {
