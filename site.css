@@ -46,6 +46,7 @@ text-align: center;
 
 address {
   text-align: center;
+  text-color: white;
 }
   
 a:visited {
@@ -58,3 +59,4 @@ a:hover {
 
 a:active {
   background-color: hotpink;
+}
